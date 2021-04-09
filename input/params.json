@@ -1,0 +1,9 @@
+{
+  "CSV_PATH": "contacts.csv",
+  "DON_MIN": 0,
+  "ALL_UPPERCASE": false,
+  "DEFAULT_DATE": "2020-12-31",
+  "DEFAULT_FORME": 0,
+  "DEFAULT_NATURE": 0,
+  "DEFAULT_MODE": 0
+}

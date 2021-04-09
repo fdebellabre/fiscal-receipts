@@ -1,0 +1,9 @@
+Bonjour {prenom} {nom},
+
+Vous trouverez ci-joint le reçu fiscal correspondant au don de {montant} euros effectué le {date} au profit de notre association.
+
+Nous vous remercions pour votre générosité.
+
+Bien à vous,
+
+L'association.

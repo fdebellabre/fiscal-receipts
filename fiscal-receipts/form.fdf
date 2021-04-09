@@ -1,0 +1,71 @@
+%FDF-1.2
+
+1 0 obj
+<<
+/FDF << /Fields 2 0 R>>
+>>
+endobj
+2 0 obj
+[<< /T (Z3) /V (O_NUM) >>
+<< /T (z1) /V (NUM_ORDRE) >>
+<< /T (z10) /V (T_2) >>
+<< /T (z11) /V (T_3) >>
+<< /T (z12) /V (T_4) >>
+<< /T (z13) /V (T_5) >>
+<< /T (z14) /V (T_6) >>
+<< /T (z15) /V (T_7) >>
+<< /T (z16) /V (T_8) >>
+<< /T (z17) /V (T_9) >>
+<< /T (z18) /V (T_10) >>
+<< /T (z19) /V (T_11) >>
+<< /T (z2) /V (O_NOM) >>
+<< /T (z20) /V (T_12) >>
+<< /T (z21) /V (T_13) >>
+<< /T (z22) /V (T_14) >>
+<< /T (z23) /V (T_15) >>
+<< /T (z24) /V (T_16) >>
+<< /T (z25) /V (T_17) >>
+<< /T (z26) /V (T_18) >>
+<< /T (z27) /V (T_19) >>
+<< /T (z28) /V () >>
+<< /T (z29) /V (D_NOM) >>
+<< /T (z30) /V (D_PRENOM) >>
+<< /T (z31) /V (D_ADRESSE) >>
+<< /T (z32) /V (D_CODE) >>
+<< /T (z33) /V (D_COMMUNE) >>
+<< /T (z34) /V (MONTANT_CHIFFRE) >>
+<< /T (z35) /V (MONTANT_LETTRES) >>
+<< /T (z36) /V (DON_DAY) >>
+<< /T (z37) /V (DON_MONTH) >>
+<< /T (z38) /V (DON_YEAR) >>
+<< /T (z39) /V (CGI_200) >>
+<< /T (z4) /V (O_RUE) >>
+<< /T (z40) /V (CGI_238) >>
+<< /T (z41) /V (CGI_885) >>
+<< /T (z42) /V (F_AUTHENTIQUE) >>
+<< /T (z43) /V (F_SEING_PRIVE) >>
+<< /T (z44) /V (F_MANUEL) >>
+<< /T (z45) /V (F_OTHER) >>
+<< /T (z46) /V (N_NUMERAIRE) >>
+<< /T (z47) /V (N_TITRES) >>
+<< /T (z48) /V (N_OTHER) >>
+<< /T (z49) /V (M_ESPECES) >>
+<< /T (z5) /V (O_CODE) >>
+<< /T (z50) /V (M_CHEQUE) >>
+<< /T (z51) /V (M_OTHER) >>
+<< /T (z52) /V (SIGN_DAY) >>
+<< /T (z53) /V (SIGN_MONTH) >>
+<< /T (z54) /V (SIGN_YEAR) >>
+<< /T (z5b) /V (O_COMMUNE) >>
+<< /T (z6) /V (O_OBJ1) >>
+<< /T (z7) /V (O_OBJ2) >>
+<< /T (z8) /V (O_OBJ3) >>
+<< /T (z9) /V (T_1) >>
+]
+endobj
+trailer
+<<
+/Root 1 0 R
+
+>>
+%%EOF

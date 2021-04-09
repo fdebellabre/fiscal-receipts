@@ -1,0 +1,7 @@
+{
+  "email": "ch@mpignon.fr",
+  "smtp_server": "smtp.mpignon.com",
+  "smtp_port": "587",
+  "objet": "Votre reçu fiscal.",
+  "pdfname": "recu_fiscal.pdf"
+}
