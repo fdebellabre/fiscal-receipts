@@ -25,7 +25,7 @@ $ apt-get install pdfjam pdftk ps2pdf imagemagick
 $ python3 -m pip install -r requirements.txt
 ```
 
-`pdfjam` requiert une installation à jour de $\LaTeX$ comportant le paquet `pdfpages`.
+`pdfjam` requiert une installation à jour de LaTeX comportant le paquet `pdfpages`.
 
 # Utilisation
 
