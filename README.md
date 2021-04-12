@@ -59,7 +59,7 @@ En cas d'absence de numéro d'ordre du reçu, un numéro à 20 chiffres sera gé
 
 ### Pour l'envoi des e-mails
 
-En cas d'utilisation d'un compte Gmail, il faut commencer par [activer la connexion depuis des applications "moins sécurisées".][https://myaccount.google.com/lesssecureapps]
+En cas d'utilisation d'un compte Gmail, il faut commencer par [activer la connexion depuis des applications "moins sécurisées".](https://myaccount.google.com/lesssecureapps)
 
 Les paramètres SMTP sont spécifiques au fournisseur de messagerie. En voici quelques exemples :
 
