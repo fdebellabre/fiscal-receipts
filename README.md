@@ -21,7 +21,7 @@ $ . venv/bin/activate
 Installation des dépendances :
 
 ```bash
-$ apt-get install pdfjam pdftk ps2pdf imagemagick
+$ sudo apt-get install pdfjam pdftk ps2pdf imagemagick
 $ python3 -m pip install -r requirements.txt
 ```
 
